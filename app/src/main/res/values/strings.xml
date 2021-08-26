@@ -1,0 +1,10 @@
+<resources>
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">AfterOperationWithSQLite</string>
+    <string name="add_record">Add entry</string>
+    <string name="delete_record">Delete entry</string>
+    <string name="box">Box</string>
+    <string name="header_title">Header</string>
+    <string name="footer_title">Footer</string>
+    <string name="button_text">Test</string>
+</resources>
